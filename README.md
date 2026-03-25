@@ -1,2 +1,2 @@
-Se mejoro la pagina inicial segun las intrucciones dadas en el powerpoint
-Las acciones correctivas en programación solucionan errores (bugs) y fallos operativos para restaurar la funcionalidad, mientras que las evolutivas añaden nuevas características.
+Se mejoro la pagina inicial segun las intrucciones dadas en el powerpoint.
+Las acciones correctivas en programación solucionan errores (bugs) y fallos operativos para restaurar la funcionalidad como ejemplo el css mesclado con el html, mientras que las evolutivas añaden nuevas características los nuevos diseños del css por ejemplo cuando pasas el cursor por las imagenes.
